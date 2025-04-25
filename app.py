@@ -67,7 +67,7 @@ chain_with_history = RunnableWithMessageHistory(
 
 # Função principal para iniciar o assistente de viagens
 def iniciar_assistente_viagem():
-    print("Olá! Eu sou seu assistente de viagens. Como posso ajudar você hoje? \n[DIGITE 'sair' para encerrar a conversa]")
+    print("\nOlá! Eu sou seu assistente de viagens. Como posso ajudar você hoje? \n[DIGITE 'sair' para encerrar a conversa]")
 
     while True:
         # Recebe a entrada do usuário
