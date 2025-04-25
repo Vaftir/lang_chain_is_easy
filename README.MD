@@ -3,6 +3,10 @@
 
 Este é um assistente de viagens interativo desenvolvido com a biblioteca LangChain. Ele ajuda os usuários a planejar suas viagens, fazendo perguntas relevantes e fornecendo sugestões úteis com base nas respostas.
 
+## Objetivo
+
+Um projeto simples para os que querem ter um primeiro contato com essa poderosa biblioteca
+
 ## Funcionalidades
 
 - Faz perguntas sobre o destino, número de viajantes, orçamento, datas e preferências.
